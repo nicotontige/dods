@@ -1,0 +1,122 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Auto TK Revenge
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"TKCount Loaded"
+	{
+		"de"	"TK Anzahl von %d wurde geladen! Achte auf Teamkameraden!"
+	}
+
+	"SpawnTA Slay"
+	{
+		"de"	"{1} wurde fuer den Spawn-Angriff auf {2} erschlagen!"
+	}
+
+	"MeleeTA Slay"
+	{
+		"de"	"{1} wurde fuer den Nahkampf-Angriff auf {2} erschlagen!"
+	}
+
+	"TKCount Lowered"
+	{
+		"de"	"TK Anzahl wurde reduziert auf {1}/{2}"
+	}
+
+	"TKCount Raised"
+	{
+		"de"	"TK Anzahl wurde erhoeht auf {1}/{2}"
+	}
+
+	"TK PlayerBanned"
+	{
+		"de"	"%N wurde wegen uebermaessigem Teambeschuss verbannt!"
+	}
+
+	"TK PlayerKicked"
+	{
+		"de"	"%N wurde wegen uebermaessigem Teambeschuss gekickt!"
+	}
+
+	"TK AdminAutoSorry"
+	{
+		"de"	"Entschuldige bitte, %N! Mein Fehler!"
+	}
+
+	"TK KillerGone"
+	{
+		"de"	"Sorry %N, Dein TeamKiller hat den Server verlassen!"
+	}
+
+	"TK YouForgave"
+	{
+		"de"	"Du hast %N den TeamKill vergeben!"
+	}
+
+	"TK VictimForgave"
+	{
+		"de"	"%N hat Dir den TeamKill vergeben!"
+	}
+
+	"TK YouNotForgave"
+	{
+		"de"	"Du hast %N den TeamKill NICHT vergeben!"
+	}
+
+	"TK VictimNotForgave"
+	{
+		"de"	"%N hat Dir den TeamKill NICHT vergeben!"
+	}
+
+	"TK YouSlapped"
+	{
+		"de"	"Du hast %N fuer den TeamKill auf 1hp gepruegelt!"
+	}
+
+	"TK VictimSlapped"
+	{
+		"de"	"%N hat dich fuer den TeamKill auf 1hp gepruegelt!"
+	}
+
+	"TK YouSlayed"
+	{
+		"de"	"Du hast %N fuer den TeamKill erschlagen!"
+	}
+
+	"TK VictimSlayed"
+	{
+		"de"	"%N hat dich fuer den TeamKill erschlagen!"
+	}
+
+	"TK KillerDead"
+	{
+		"de"	"Sorry, zu spaet! %N ist bereits tot!"
+	}
+
+	"TK SlayRespawn"
+	{
+		"de"	"Sorry, %N ist bereits tot, er wird nach dem Respawn erschlagen!"
+	}
+
+	"TK MenuForgive"
+	{
+		"de"	"Vergeben!"
+	}
+
+	"TK MenuDontForgive"
+	{
+		"de"	"NICHT Vergeben!"
+	}
+
+	"TK MenuSlap"
+	{
+		"de"	"Auf 1hp pruegeln!"
+	}
+
+	"TK MenuSlay"
+	{
+		"de"	"Erschlagen!"
+	}
+}

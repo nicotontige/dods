@@ -1,0 +1,37 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon HighPingKicker
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{	
+	"HPK KickIf"
+	{
+		"pt"	"Você será kickado se seu ping exceder %i!"
+	}
+
+	"HPK Admin"
+	{
+		"pt"	"Privilégios de admin detectados! Limite de ping desabilitado!"
+	}
+
+	"HPK KickNow"
+	{
+		"pt"	"Seu ping excede o limite de %i! Você será kickado agora!"
+	}
+
+	"HPK LowPing"
+	{
+		"pt"	"Seu ping está constantemente abaixo de %i! Limite de ping desabilitado!"
+	}
+
+	"HPK KickedPlayer"
+	{
+		"pt"	"Jogador {1} foi kickado por exceder o limite de ping de {2}!"
+	}
+
+	"HPK KickReason"
+	{
+		"pt"	"Você está excedendo o limite de ping de %i"
+	}
+}

@@ -1,0 +1,62 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon RoundEnd Events
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"RE Mixed"
+	{
+		"de"	"Ende der Runde: Teams werden gemischt!"
+	}
+
+	"RE Mixed2"
+	{
+		"de"	"In Folge gewonnene Runde {1}/{2}: Teams werden gemischt!"
+	}
+
+	"RE MixIn"
+	{
+		"de"	"In Folge gewonnene Runde {1}/{2}: Teams werden nach {3} weiteren Runden gemischt!"
+	}
+
+	"RE MixNext"
+	{
+		"de"	"In Folge gewonnene Runde {1}/{2}: Teams werden naechste Runde gemischt!"
+	}
+
+	"RE Swapped"
+	{
+		"de"	"Ende der Runde: Teams wurden getauscht!"
+	}
+
+	"RE Swapped2"
+	{
+		"de"	"Runde {1}/{2}: Teams wurden getauscht!"
+	}
+
+	"RE SwapIn"
+	{
+		"de"	"Runde {1}/{2}: Teams werden in {3} Runden getauscht!"
+	}
+
+	"RE SwapNext"
+	{
+		"de"	"Runde {1}/{2}: Teams werden naechste Runde ausgetauscht!"
+	}
+
+	"Team Defeated"
+	{
+		"de"	"{1} besiegte {2}!"
+	}
+
+	"Team Casualties"
+	{
+		"de"	"{1} Verluste bei {2}\n{3} Verluste bei {4}"
+	}
+
+	"RoundWon In"
+	{
+		"de"	"Round gewonnen in {1}:{2}min!"
+	}
+}

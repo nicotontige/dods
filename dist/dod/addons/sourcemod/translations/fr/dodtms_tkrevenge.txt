@@ -1,0 +1,122 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Auto TK Revenge
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"TKCount Loaded"
+	{
+		"fr"	"Votre compteur TK est de %d! Attention à votre tir!"
+	}
+
+	"SpawnTA Slay"
+	{
+		"fr"	"{1} a été massacré pour avoir attaqué {2} dans la zone de Spawn!"
+	}
+
+	"MeleeTA Slay"
+	{
+		"fr"	"{1} a été massacré pour avoir attaqué {2} avec une arme de corps à corps!"
+	}
+
+	"TKCount Lowered"
+	{
+		"fr"	"Votre compteur TK a été baissé à {1}/{2}"
+	}
+
+	"TKCount Raised"
+	{
+		"fr"	"Votre compteur TK a été augmenté à {1}/{2}"
+	}
+
+	"TK PlayerBanned"
+	{
+		"fr"	"%N a été banni(e) pour excés de TeamKill!"
+	}
+
+	"TK PlayerKicked"
+	{
+		"fr"	"%N a été kické(e) pour excés de TeamKill!"
+	}
+
+	"TK AdminAutoSorry"
+	{
+		"fr"	"Désolé pour le TK, %N! C'est de ma faute!"
+	}
+
+	"TK KillerGone"
+	{
+		"fr"	"Désolé %N, votre TeamKiller a quitté le jeu!"
+	}
+
+	"TK YouForgave"
+	{
+		"fr"	"Vous avez pardonné le TK de %N!"
+	}
+
+	"TK VictimForgave"
+	{
+		"fr"	"Votre TK sur %N a été pardonné!"
+	}
+
+	"TK YouNotForgave"
+	{
+		"fr"	"Vous n'avez pas pardonné le TK de %N!"
+	}
+
+	"TK VictimNotForgave"
+	{
+		"fr"	"Votre TK sur %N n'a pas été pardonné!"
+	}
+
+	"TK YouSlapped"
+	{
+		"fr"	"Vous avez gifflé %N jusqu'à 1hp pour son TK!"
+	}
+
+	"TK VictimSlapped"
+	{
+		"fr"	"%N vous a gifflé jusqu'à 1hp pour votre TK!"
+	}
+
+	"TK YouSlayed"
+	{
+		"fr"	"Vous avez massacré %N pour son TK!"
+	}
+
+	"TK VictimSlayed"
+	{
+		"fr"	"%N vous a massacré pour votre TK!"
+	}
+
+	"TK KillerDead"
+	{
+		"fr"	"Désolé, trop tard! %N est déjà mort!"
+	}
+
+	"TK SlayRespawn"
+	{
+		"fr"	"Désolé, %N est déjà mort! Il sera massacré à son Respawn!"
+	}
+
+	"TK MenuForgive"
+	{
+		"fr"	"Pardonner!"
+	}
+
+	"TK MenuDontForgive"
+	{
+		"fr"	"Ne pas pardonner!"
+	}
+
+	"TK MenuSlap"
+	{
+		"fr"	"Giffler jusqu'à 1hp!"
+	}
+
+	"TK MenuSlay"
+	{
+		"fr"	"Massacrer!"
+	}
+}

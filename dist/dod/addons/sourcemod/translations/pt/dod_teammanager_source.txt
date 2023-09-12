@@ -1,0 +1,82 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Base Plugin (Shared Translations!)
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"AdminTeam Auto"
+	{
+		"pt"	"Desculpe, mas você não pode entrar para o Time de Admins, entrando para o Time %s!"
+	}	
+	
+	"AdminTeam Stop"
+	{
+		"pt"	"Desculpe, mas você não pode entrar para o time de Admins!"
+	}
+	
+	"Admin TeamSwap"
+	{
+		"pt"	"Admin %N trocou os Times!"
+	}
+	
+	"Admin MixTeams Error"
+	{
+		"pt"	"Pelo menos %i Jogadores por Time necessários para misturar os Times!"
+	}
+	
+	"Admin MixTeams Success"
+	{
+		"pt"	"Admin %N começou a misturar os Times!"
+	}
+	
+	"Already on Team"
+	{
+		"pt"	"Você já se encontra no Time %s!"
+	}
+	
+	"Configs Deleted"
+	{
+		"pt"	"Arquivos de configuração foram deletados e serão recriados na próxima mudança de mapas!"
+	}
+	
+	"Team Locked"
+	{
+		"pt"	"Time %s está BLOQUEADO!"
+	}
+	
+	"Team Full Stop"
+	{
+		"pt"	"Time %s está cheio, desculpe!"
+	}
+	
+	"Team Full Auto"
+	{
+		"pt"	"Time {1} está cheio, entrando para o Time {2}!"
+	}
+	
+	"Teams Balanced"
+	{
+		"pt"	"Times estão balanceados, você não pode mudar para %s!"
+	}
+	
+	"PluginCmdMenu"
+	{
+		"pt"	"Comandos do Plugin"
+	}
+	
+	"PluginCmdMenu Title"
+	{
+		"pt"	"Menu de Comandos do Plugin:"
+	}
+	
+	"CheckVersion"
+	{
+		"pt"	"Checar por nova versão!"
+	}
+	
+	"RecreateCfgs"
+	{
+		"pt"	"Recriar arquivos de configuração do Plugin!"
+	}
+}

@@ -1,0 +1,122 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Auto TK Revenge
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"TKCount Loaded"
+	{
+		"pt"	"Última contagem de Fogo Amigo de %d carregada! Cuidado aonde você atira!"
+	}
+
+	"SpawnTA Slay"
+	{
+		"pt"	"{1} foi massacrado por atacar {2} dentro da Área de Spawn!"
+	}
+
+	"MeleeTA Slay"
+	{
+		"pt"	"{1} foi massacrado por atacar {2} com uma arma Melee!"
+	}
+
+	"TKCount Lowered"
+	{
+		"pt"	"Contagem de Fogo Amigo foi reduzido para {1}/{2}"
+	}
+
+	"TKCount Raised"
+	{
+		"pt"	"Contagem de Fogo Amigo foi aumentado para {1}/{2}"
+	}
+
+	"TK PlayerBanned"
+	{
+		"pt"	"%N foi banido por Fogo Amigo excessivo!"
+	}
+
+	"TK PlayerKicked"
+	{
+		"pt"	"%N foi kickado por Fogo Amigo excessivo!"
+	}
+
+	"TK AdminAutoSorry"
+	{
+		"pt"	"Desculpe por ter matado você, %N! Meu erro!"
+	}
+
+	"TK KillerGone"
+	{
+		"pt"	"Desculpe %N, o amigo que te atirou saiu do jogo!"
+	}
+
+	"TK YouForgave"
+	{
+		"pt"	"Você perdoou o Fogo Amigo do %N!"
+	}
+
+	"TK VictimForgave"
+	{
+		"pt"	"O Fogo Amigo que você deu no %N foi perdoado!"
+	}
+
+	"TK YouNotForgave"
+	{
+		"pt"	"Você NÃO perdoou o Fogo Amigo do %N!"
+	}
+
+	"TK VictimNotForgave"
+	{
+		"pt"	"O Fogo Amigo que você deu no %N NÃO foi perdoado!"
+	}
+
+	"TK YouSlapped"
+	{
+		"pt"	"Você reduziu a vida do %N para 1hp por ter te matado!"
+	}
+
+	"TK VictimSlapped"
+	{
+		"pt"	"%N reduziu sua vida para 1hp por ter matado ele!"
+	}
+
+	"TK YouSlayed"
+	{
+		"pt"	"Você massacrou %N por ter te matado!"
+	}
+
+	"TK VictimSlayed"
+	{
+		"pt"	"%N te massacrou por ter matado ele!"
+	}
+
+	"TK KillerDead"
+	{
+		"pt"	"Desculpe, muito tarde! %N já está morto!"
+	}
+
+	"TK SlayRespawn"
+	{
+		"pt"	"Desculpe, %N já está morto! Ele será massacrado quando renascer!"
+	}
+
+	"TK MenuForgive"
+	{
+		"pt"	"Perdoar!"
+	}
+
+	"TK MenuDontForgive"
+	{
+		"pt"	"NÃO Perdoar!"
+	}
+
+	"TK MenuSlap"
+	{
+		"pt"	"Reduzir vida para 1hp!"
+	}
+
+	"TK MenuSlay"
+	{
+		"pt"	"Massacrar!"
+	}
+}

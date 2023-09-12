@@ -1,0 +1,172 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Player / Team Commands Menu
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////	
+"Phrases"
+{
+	"Admin Encourage"
+	{
+		"chi"			"管理员 {1} 鼓舞了团队 {2} 的士气!"
+	}
+
+	"Admin SwitchPlayer"
+	{
+		"chi"			"管理员 {1} 将玩家 {2} 切换到了团队 {3}!"
+	}
+
+	"Encourage Msg"
+	{
+		"chi"			"兄弟们上啊, 夺下前面的点!\n死了有你发傻的时间!"
+	}
+
+	"PlayerCmdMenu"
+	{
+		"chi"			"玩家指令"
+	}
+
+	"PlayerCmdMenu Title"
+	{
+		"chi"			"玩家指令菜单:"
+	}
+
+	"TeamCmdMenu"
+	{
+		"chi"			"团队指令"
+	}
+
+	"TeamCmdMenu Title"
+	{
+		"chi"			"团队指令菜单:"
+	}
+
+	"SwapToAllies"
+	{
+		"chi"			"交换玩家至美军团队"
+	}
+
+	"SwapToAxis"
+	{
+		"chi"			"交换玩家至德军团队"
+	}
+
+	"SwapToSpec"
+	{
+		"chi"			"交换玩家至旁观者团队"
+	}
+
+	"Encourage Player"
+	{
+		"chi"			"鼓励个人玩家"
+	}
+
+	"SwapTeamsItem"
+	{
+		"chi"			"交换团队"
+	}
+
+	"MixTeamsItem"
+	{
+		"chi"			"混合团队"
+	}
+
+	"EncourageTeamsItem"
+	{
+		"chi"			"鼓励团队"
+	}
+
+	"AdminsvsPublicItem"
+	{
+		"chi"			"管理员 vs. 公众玩家"
+	}
+
+	"EncourageTeam Title"
+	{
+		"chi"			"鼓励团队:"
+	}
+
+	"EncourageAllies Item"
+	{
+		"chi"			"美军团队 (同盟国一方)"
+	}
+
+	"EncourageAxis Item"
+	{
+		"chi"			"德军团队 (轴心国一方)"
+	}
+
+	"EncourageBoth Item"
+	{
+		"chi"			"双方团队 (同盟国 & 轴心国)"
+	}
+
+	"AdminsvsPublic Title"
+	{
+		"chi"			"管理员 vs. 公众玩家:"
+	}
+
+	"AdminTeamAllies Item"
+	{
+		"chi"			"设置管理员团队为美军 (同盟国一方)"
+	}
+
+	"AdminTeamAxis Item"
+	{
+		"chi"			"设置管理员团队为德军 (轴心国一方)"
+	}
+
+	"AdminTeamNone Item"
+	{
+		"chi"			"解散管理员团队 (回复常规模式)"
+	}
+
+	"AdminTeam Set"
+	{
+		"chi"			"管理员 {1} 设置管理员团队为 {2}!"
+	}
+
+	"SwapToAllies Title"
+	{
+		"chi"			"交换玩家至美军团队 (同盟国一方):"
+	}
+
+	"SwapToAxis Title"
+	{
+		"chi"			"交换玩家至德军团队 (轴心国一方):"
+	}
+
+	"SwapToSpec Title"
+	{
+		"chi"			"交换玩家至旁观者团队 (旁观者一方):"
+	}
+
+	"EncouragePlayer Title"
+	{
+		"chi"			"鼓励玩家达成目标:"
+	}
+
+	"Encouraged Player"
+	{
+		"chi"			"管理员 {1} 鼓舞了玩家 {2} 的士气以达成目标!"
+	}
+
+	"EncouragePlayer Msg"
+	{
+		"chi"			"%N 上啊, 把前面的点夺下来!\n死了再停下来发傻吧!"
+	}
+
+	"Admin SlayPlayer"
+	{
+		"chi"			"管理员 {1} 处死了玩家 {2}!"
+	}
+
+	"Slay Title"
+	{
+		"chi"			"处死某玩家"
+	}
+
+	"Slay Player"
+	{
+		"chi"			"处死玩家"
+	}																	
+}

@@ -1,0 +1,62 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon AFK Manager
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"Player AFKtoSpec"
+	{
+		"chi"			"玩家 %N 被系统认为暂时离机并被移送至了旁观者一方!"
+	}
+
+	"Player AFKKickNOW"
+	{
+		"chi"			"您已被系统判为暂时离机!\n您现将被踢出!"
+	}
+
+	"Player AFKComeBack"
+	{
+		"chi"			"您已被系统判为暂时离机!\n归来后请加入某方团队继续战斗!"
+	}
+
+	"Player AFKKickTimer"
+	{
+		"chi"			"您已被系统判为暂时离机!\n您将于 %i 秒钟后被踢出!"
+	}
+
+	"Player KickedAFK"
+	{
+		"chi"			"玩家 %N 因为暂时离机过久已被踢出!"
+	}
+
+	"Player AFKKickReason"
+	{
+		"chi"			"您暂时离机过久了"
+	}
+
+	"Player KickedIdle"
+	{
+		"chi"			"玩家 %N 因为发呆过久被踢出了!"
+	}
+
+	"Player IdleKickReason"
+	{
+		"chi"			"您已发呆太长时间了"
+	}
+
+	"PlayerJoinTeamTitle"
+	{
+		"chi"			"加入团队:"
+	}
+
+	"PlayerAFKCheckTitle"
+	{
+		"chi"			"您即将被系统视为加入离机状态!\n \n您是否已处于离机状态?\n \n"
+	}
+
+	"NotAFKChoice"
+	{
+		"chi"			"不! 我并未处于离机状态!"
+	}
+}

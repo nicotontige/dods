@@ -1,0 +1,122 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Auto TK Revenge
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"TKCount Loaded"
+	{
+		"chi"			"先前 %d 次 TK 已载入记录! 注意别再走火了!"
+	}
+
+	"SpawnTA Slay"
+	{
+		"chi"			"{1} 由于在出生区袭击 {2} 而被处死了!"
+	}
+
+	"MeleeTA Slay"
+	{
+		"chi"			"{1} 由于用刀铲袭击 {2} 而被处死了!"
+	}
+
+	"TKCount Lowered"
+	{
+		"chi"			"TK 次数已被降低至 {1}/{2}"
+	}
+
+	"TKCount Raised"
+	{
+		"chi"			"TK 次数已被提升至 {1}/{2}"
+	}
+
+	"TK PlayerBanned"
+	{
+		"chi"			"%N 由于残杀队友过频而被封禁了!"
+	}
+
+	"TK PlayerKicked"
+	{
+		"chi"			"%N 由于残害队友过频而被踢出!"
+	}
+
+	"TK AdminAutoSorry"
+	{
+		"chi"			"很抱歉把你打死了, %N! 我失手了!"
+	}
+
+	"TK KillerGone"
+	{
+		"chi"			"对不起了 %N, 害你的同队刽子手已被赶出游戏了!"
+	}
+
+	"TK YouForgave"
+	{
+		"chi"			"您原谅了 %N 的自相残杀行为!"
+	}
+
+	"TK VictimForgave"
+	{
+		"chi"			"您残害队友 %N 的行为已被谅解!"
+	}
+
+	"TK YouNotForgave"
+	{
+		"chi"			"您不原谅 %N 的自相残杀行为!"
+	}
+
+	"TK VictimNotForgave"
+	{
+		"chi"			"您残害队友 %N 的行为未被原谅!"
+	}
+
+	"TK YouSlapped"
+	{
+		"chi"			"您拍打 %N 至 1hp 以报其害您之仇!"
+	}
+
+	"TK VictimSlapped"
+	{
+		"chi"			"%N 拍打您至 1hp 以报其被害之仇!"
+	}
+
+	"TK YouSlayed"
+	{
+		"chi"			"您处死了 %N 以报其害您之仇!"
+	}
+
+	"TK VictimSlayed"
+	{
+		"chi"			"%N 处死了您以报其被害之仇!"
+	}
+
+	"TK KillerDead"
+	{
+		"chi"			"抱歉, 太迟了! %N 已死了!"
+	}
+
+	"TK SlayRespawn"
+	{
+		"chi"			"抱歉, %N 已死! 等下次重生时再把他处死!"
+	}
+
+	"TK MenuForgive"
+	{
+		"chi"			"原谅!"
+	}
+
+	"TK MenuDontForgive"
+	{
+		"chi"			"不原谅!"
+	}
+
+	"TK MenuSlap"
+	{
+		"chi"			"拍打至 1hp!"
+	}
+
+	"TK MenuSlay"
+	{
+		"chi"			"处死!"
+	}
+}

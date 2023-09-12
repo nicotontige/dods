@@ -1,0 +1,62 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon AFK Manager
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"Player AFKtoSpec"
+	{
+		"en"	"Player %N has been considered AFK and was sent to Spectators!"
+	}
+
+	"Player AFKKickNOW"
+	{
+		"en"	"You have been considered AFK!\nYou will be kicked NOW!"
+	}
+
+	"Player AFKComeBack"
+	{
+		"en"	"You have been considered AFK!\nPlease join a Team when you return!"
+	}
+
+	"Player AFKKickTimer"
+	{
+		"en"	"You have been considered AFK!\nYou will be kicked in %i seconds!"
+	}
+
+	"Player KickedAFK"
+	{
+		"en"	"Player %N has been kicked for being AFK!"
+	}
+
+	"Player AFKKickReason"
+	{
+		"en"	"You have been Away-From-Keyboard"
+	}
+
+	"Player KickedIdle"
+	{
+		"en"	"Player %N has been kicked for being idle!"
+	}
+
+	"Player IdleKickReason"
+	{
+		"en"	"You have been idle too long"
+	}
+
+	"PlayerJoinTeamTitle"
+	{
+		"en"	"Join Team:"
+	}
+
+	"PlayerAFKCheckTitle"
+	{
+		"en"	"You will be considered AFK soon!\n \nAre you AFK?\n \n"
+	}
+
+	"NotAFKChoice"
+	{
+		"en"	"NO! I am NOT AFK!"
+	}
+}

@@ -1,0 +1,122 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Auto TK Revenge
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"TKCount Loaded"
+	{
+		"es"	"Cargado el contador de TK de %d! Vigila tus disparos!"
+	}
+
+	"SpawnTA Slay"
+	{
+		"es"	"{1} ha muerto por atacar a {2} en el respawn!"
+	}
+
+	"MeleeTA Slay"
+	{
+		"es"	"{1} ha muerto por atacar a {2} con un arma de cuerpo a cuerpo!"
+	}
+
+	"TKCount Lowered"
+	{
+		"es"	"El contador de TK ha sido reducido a {1}/{2}"
+	}
+
+	"TKCount Raised"
+	{
+		"es"	"El contador de TK ha sido aumentado a {1}/{2}"
+	}
+
+	"TK PlayerBanned"
+	{
+		"es"	"%N ha sido baneado por hacer demasiados TKs!"
+	}
+
+	"TK PlayerKicked"
+	{
+		"es"	"%N ha sido expulsado por hacer demasiados TKs!"
+	}
+
+	"TK AdminAutoSorry"
+	{
+		"es"	"Lo siento %N! Culpa mía!"
+	}
+
+	"TK KillerGone"
+	{
+		"es"	"Lo siento %N, el que le hizo TK ha abandonado el juego!"
+	}
+
+	"TK YouForgave"
+	{
+		"es"	"Ha perdonado el TK de %N!"
+	}
+
+	"TK VictimForgave"
+	{
+		"es"	"Su TK a %N ha sido perdonado!"
+	}
+
+	"TK YouNotForgave"
+	{
+		"es"	"No perdonó el TK de %N!"
+	}
+
+	"TK VictimNotForgave"
+	{
+		"es"	"El TK que ha hecho a %N no ha sido perdonado!"
+	}
+
+	"TK YouSlapped"
+	{
+		"es"	"Ha dado a %N una bofetada de 1 punto de vida por hacerle TK!"
+	}
+
+	"TK VictimSlapped"
+	{
+		"es"	"%N le ha abofeteado y le ha quitado 1 punto de vida por hacerle TK!"
+	}
+
+	"TK YouSlayed"
+	{
+		"es"	"Abofeteó a %N por hacerle un TK!"
+	}
+
+	"TK VictimSlayed"
+	{
+		"es"	"%N le abofeteó por hacerle un TK!"
+	}
+
+	"TK KillerDead"
+	{
+		"es"	"Lo siento, demasiado tarde! %N ya está muerto!"
+	}
+
+	"TK SlayRespawn"
+	{
+		"es"	"Lo siento, %N ya esta muerto! Será abofeteado cuando nazca de nuevo!"
+	}
+
+	"TK MenuForgive"
+	{
+		"es"	"Perdonar!"
+	}
+
+	"TK MenuDontForgive"
+	{
+		"es"	"NO Perdonar!"
+	}
+
+	"TK MenuSlap"
+	{
+		"es"	"Quitar 1 punto de vida!"
+	}
+
+	"TK MenuSlay"
+	{
+		"es"	"Matar!"
+	}
+}

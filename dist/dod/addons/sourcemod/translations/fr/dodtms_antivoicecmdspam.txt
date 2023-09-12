@@ -1,0 +1,17 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Anti-VoiceCommandSpam
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////	
+"Phrases"
+{
+	"NoVoiceSpam"
+	{
+		"fr"	"Désolé, mais le spam par commande vocale n'est pas autorisé!"
+	}
+	
+	"TryAgainIn"
+	{
+		"fr"	"Désolé mais vous avez déjà utilisé une commande vocale! Essayez encore dans %i secondes"
+	}
+}

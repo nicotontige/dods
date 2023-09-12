@@ -1,0 +1,82 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Base Plugin (Shared Translations!)
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"AdminTeam Auto"
+	{
+		"chi"			"抱歉, 您无权加入管理员团队, 请加入团队 %s!"
+	}	
+	
+	"AdminTeam Stop"
+	{
+		"chi"			"抱歉, 您无权加入管理员团队"
+	}
+	
+	"Admin TeamSwap"
+	{
+		"chi"			"管理员 %N 互换了双方团队!"
+	}
+	
+	"Admin MixTeams Error"
+	{
+		"chi"			"至少每方还需要 %i 个玩家才能混合团队!"
+	}
+	
+	"Admin MixTeams Success"
+	{
+		"chi"			"管理员 %N 已经混合了团队!"
+	}
+	
+	"Already on Team"
+	{
+		"chi"			"您已在 %s 团队中了!"
+	}
+	
+	"Configs Deleted"
+	{
+		"chi"			"配置文件已删除并将于轮换下一幅地图后重建!"
+	}
+	
+	"Team Locked"
+	{
+		"chi"			"团队 %s 当前被锁定!"
+	}
+	
+	"Team Full Stop"
+	{
+		"chi"			"团队 %s 已满, 抱歉!"
+	}
+	
+	"Team Full Auto"
+	{
+		"chi"			"团队 {1} 人数已满, 请加入团队 {2}!"
+	}
+	
+	"Teams Balanced"
+	{
+		"chi"			"双方团队已平衡, 您无法切换至 %s!"
+	}
+	
+	"PluginCmdMenu"
+	{
+		"chi"			"插件指令"
+	}
+	
+	"PluginCmdMenu Title"
+	{
+		"chi"			"插件指令菜单:"
+	}
+	
+	"CheckVersion"
+	{
+		"chi"			"查找新版本!"
+	}
+	
+	"RecreateCfgs"
+	{
+		"chi"			"重建插件配置文件!"
+	}
+}

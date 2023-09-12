@@ -1,0 +1,62 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon AFK Manager
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"Player AFKtoSpec"
+	{
+		"de"	"Spieler %N wurde als inaktiv eingestuft und wurde zum Team Spectators verschoben!"
+	}
+
+	"Player AFKKickNOW"
+	{
+		"de"	"Du wurdest als inaktiv eingestuft!\nDu wirst JETZT gekickt!"
+	}
+
+	"Player AFKComeBack"
+	{
+		"de"	"Du wurdest als inaktiv eingestuft!\nBitte tritt einem Team bei wenn Du bereit bist!"
+	}
+
+	"Player AFKKickTimer"
+	{
+		"de"	"Du wurdest als inaktiv eingestuft!\nDu wirst in %i Sekunden gekickt!"
+	}
+
+	"Player KickedAFK"
+	{
+		"de"	"Spieler %N wurde wegen Inaktivitaet gekickt!"
+	}
+
+	"Player AFKKickReason"
+	{
+		"de"	"Du warst zu lang inaktiv"
+	}
+
+	"Player KickedIdle"
+	{
+		"de"	"Spieler %N wurde wegen Inaktivitaet gekickt!"
+	}
+
+	"Player IdleKickReason"
+	{
+		"de"	"Du warst zu lang inaktiv"
+	}
+
+	"PlayerJoinTeamTitle"
+	{
+		"de"	"Team beitreten:"
+	}
+
+	"PlayerAFKCheckTitle"
+	{
+		"de"	"Du wirst bald als AFK eingestuft!\n \nBist Du AFK?\n \n"
+	}
+
+	"NotAFKChoice"
+	{
+		"de"	"NEIN! Ich bin hier!"
+	}
+}

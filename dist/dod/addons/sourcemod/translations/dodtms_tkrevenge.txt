@@ -1,0 +1,126 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Auto TK Revenge
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"TKCount Loaded"
+	{
+		"en"	"Loaded previous TK Count of %d! Watch your fire!"
+	}
+
+	"SpawnTA Slay"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"	"{1} has been slayed for attacking {2} within the SpawnArea!"
+	}
+
+	"MeleeTA Slay"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"	"{1} has been slayed for attacking {2} with a melee weapon!"
+	}
+
+	"TKCount Lowered"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"	"TK Count has been lowered to {1}/{2}"
+	}
+
+	"TKCount Raised"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"	"TK Count has been raised to {1}/{2}"
+	}
+
+	"TK PlayerBanned"
+	{
+		"en"	"%N has been banned for excessive TeamKilling!"
+	}
+
+	"TK PlayerKicked"
+	{
+		"en"	"%N has been kicked for excessive TeamKilling!"
+	}
+
+	"TK AdminAutoSorry"
+	{
+		"en"	"Sorry for killing you, %N! My fault!"
+	}
+
+	"TK KillerGone"
+	{
+		"en"	"Sorry %N, your TeamKiller has left the game!"
+	}
+
+	"TK YouForgave"
+	{
+		"en"	"You have forgiven %N's TK!"
+	}
+
+	"TK VictimForgave"
+	{
+		"en"	"Your TK on %N has been forgiven!"
+	}
+
+	"TK YouNotForgave"
+	{
+		"en"	"You did NOT forgive %N's TK!"
+	}
+
+	"TK VictimNotForgave"
+	{
+		"en"	"Your TK on %N has NOT been forgiven!"
+	}
+
+	"TK YouSlapped"
+	{
+		"en"	"You slapped %N down to 1hp for TKing you!"
+	}
+
+	"TK VictimSlapped"
+	{
+		"en"	"%N slapped you down to 1hp for TKing him!"
+	}
+
+	"TK YouSlayed"
+	{
+		"en"	"You slayed %N for TKing you!"
+	}
+
+	"TK VictimSlayed"
+	{
+		"en"	"%N slayed you for TKing him!"
+	}
+
+	"TK KillerDead"
+	{
+		"en"	"Sorry, too late! %N is already dead!"
+	}
+
+	"TK SlayRespawn"
+	{
+		"en"	"Sorry, %N is already dead! He will be slayed after Respawn!"
+	}
+
+	"TK MenuForgive"
+	{
+		"en"	"Forgive!"
+	}
+
+	"TK MenuDontForgive"
+	{
+		"en"	"DON'T Forgive!"
+	}
+
+	"TK MenuSlap"
+	{
+		"en"	"Slap to 1hp!"
+	}
+
+	"TK MenuSlay"
+	{
+		"en"	"Slay!"
+	}
+}

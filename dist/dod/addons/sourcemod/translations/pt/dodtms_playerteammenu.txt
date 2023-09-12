@@ -1,0 +1,172 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Player / Team Commands Menu
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{	
+	"Admin Encourage"
+	{
+		"pt"	"Admin {1} incentivou o Time {2}!"
+	}
+
+	"Admin SwitchPlayer"
+	{
+		"pt"	"Admin {1} moveu o Jogador {2} para o Time {3}!"
+	}
+
+	"Encourage Msg"
+	{
+		"pt"	"Vamos lá galera, peguem alguns objetivos!\nVocês terão tempo suficiente para descançar uma vez mortos!"
+	}
+
+	"PlayerCmdMenu"
+	{
+		"pt"	"Comandos do Jogador"
+	}
+
+	"PlayerCmdMenu Title"
+	{
+		"pt"	"Menu de Comandos do Jogador:"
+	}
+
+	"TeamCmdMenu"
+	{
+		"pt"	"Comandos do Time"
+	}
+
+	"TeamCmdMenu Title"
+	{
+		"pt"	"Menu de Comandos do Time:"
+	}
+
+	"SwapToAllies"
+	{
+		"pt"	"Mover jogador para o Time U.S. Army"
+	}
+
+	"SwapToAxis"
+	{
+		"pt"	"Mover jogador para o Time Wehrmacht"
+	}
+
+	"SwapToSpec"
+	{
+		"pt"	"Mover jogador para os Espectadores"
+	}
+
+	"Encourage Player"
+	{
+		"pt"	"Incentivar um único jogador"
+	}
+
+	"SwapTeamsItem"
+	{
+		"pt"	"Trocar Times"
+	}
+
+	"MixTeamsItem"
+	{
+		"pt"	"Misturar Times"
+	}
+
+	"EncourageTeamsItem"
+	{
+		"pt"	"Incentivar Times"
+	}
+
+	"AdminsvsPublicItem"
+	{
+		"pt"	"Admin vs. Público"
+	}
+
+	"EncourageTeam Title"
+	{
+		"pt"	"Incentivar Time:"
+	}
+
+	"EncourageAllies Item"
+	{
+		"pt"	"Time U.S. Army (Allies)"
+	}
+
+	"EncourageAxis Item"
+	{
+		"pt"	"Time Wehrmacht (Axis)"
+	}
+
+	"EncourageBoth Item"
+	{
+		"pt"	"Ambos os Times (Allies e Axis)"
+	}
+
+	"AdminsvsPublic Title"
+	{
+		"pt"	"Time dos Admins:"
+	}
+
+	"AdminTeamAllies Item"
+	{
+		"pt"	"U.S. Army (Allies)"
+	}
+
+	"AdminTeamAxis Item"
+	{
+		"pt"	"Wehrmacht (Axis)"
+	}
+
+	"AdminTeamNone Item"
+	{
+		"pt"	"Voltar ao Normal"
+	}
+
+	"AdminTeam Set"
+	{
+		"pt"	"Admin {1} escolheu {2} para ser o time de Admins!"
+	}
+
+	"SwapToAllies Title"
+	{
+		"pt"	"Mover jogador para o Time U.S. Army (Allies):"
+	}
+
+	"SwapToAxis Title"
+	{
+		"pt"	"Mover jogador para o Time Wehrmacht (Axis):"
+	}
+
+	"SwapToSpec Title"
+	{
+		"pt"	"Mover jogador para os Espectadores:"
+	}
+
+	"EncouragePlayer Title"
+	{
+		"pt"	"Incentivar jogador a completar Objetivos:"
+	}
+
+	"Encouraged Player"
+	{
+		"pt"	"Admin {1} incentivou o Jogador {2} a completar Objetivos!"
+	}
+
+	"EncouragePlayer Msg"
+	{
+		"pt"	"Vamos lá %N, pegue alguns objetivos!\nVocê terá tempo suficiente para descançar uma vez morto!"
+	}
+
+	"Admin SlayPlayer"
+	{
+		"pt"	"Admin {1} massacrou o Jogador {2}!"
+	}
+
+	"Slay Title"
+	{
+		"pt"	"Massacrar um único Jogador"
+	}
+
+	"Slay Player"
+	{
+		"pt"	"Massacrar Jogador"
+	}																	
+}

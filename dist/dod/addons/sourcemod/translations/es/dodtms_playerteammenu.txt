@@ -1,0 +1,172 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Player / Team Commands Menu
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{	
+	"Admin Encourage"
+	{
+		"es"	"El Admin {1} ha incentivado al Equipo {2}!"
+	}
+
+	"Admin SwitchPlayer"
+	{
+		"es"	"El Admin {1} movió al Jugador {2} al Equipo {3}!"
+	}
+
+	"Encourage Msg"
+	{
+		"es"	"Vamos a por algunos objetivos, chicos!\nTenéis tiempo de sobra para descansar una vez estéis muertos!"
+	}
+
+	"PlayerCmdMenu"
+	{
+		"es"	"Comandos de Jugador"
+	}
+
+	"PlayerCmdMenu Title"
+	{
+		"es"	"Menú de Comandos de Jugador:"
+	}
+
+	"TeamCmdMenu"
+	{
+		"es"	"Comandos de Equipo"
+	}
+
+	"TeamCmdMenu Title"
+	{
+		"es"	"Menú de Comandos de Equipo:"
+	}
+
+	"SwapToAllies"
+	{
+		"es"	"Cambiar jugador al equipo Americano"
+	}
+
+	"SwapToAxis"
+	{
+		"es"	"Cambiar jugador al equipo Alemán"
+	}
+
+	"SwapToSpec"
+	{
+		"es"	"Cambiar jugador a Espectador"
+	}
+
+	"Encourage Player"
+	{
+		"es"	"Animar a un solo jugador"
+	}
+
+	"SwapTeamsItem"
+	{
+		"es"	"Intercambiar Equipos"
+	}
+
+	"MixTeamsItem"
+	{
+		"es"	"Mezclar Equipos"
+	}
+
+	"EncourageTeamsItem"
+	{
+		"es"	"Animar Equipos"
+	}
+
+	"AdminsvsPublicItem"
+	{
+		"es"	"Admins contra Públicos"
+	}
+
+	"EncourageTeam Title"
+	{
+		"es"	"Animar Equipo:"
+	}
+
+	"EncourageAllies Item"
+	{
+		"es"	"Equipo Americano (Aliados)"
+	}
+
+	"EncourageAxis Item"
+	{
+		"es"	"Equipo Alemán (Eje)"
+	}
+
+	"EncourageBoth Item"
+	{
+		"es"	"Ambos Equipos (Aliados & Eje)"
+	}
+
+	"AdminsvsPublic Title"
+	{
+		"es"	"Admins contra Públicos:"
+	}
+
+	"AdminTeamAllies Item"
+	{
+		"es"	"Selecciona Equipo de Admins como Americamos (Aliados)"
+	}
+
+	"AdminTeamAxis Item"
+	{
+		"es"	"Selecciona Equipo de Admins como Alemanes (Eje)"
+	}
+
+	"AdminTeamNone Item"
+	{
+		"es"	"Anular la selección de equipo de Admin (vuelve al modo normal)"
+	}
+
+	"AdminTeam Set"
+	{
+		"es"	"El Admin {1} seleccionó el Equipo de Admins como {2}!"
+	}
+
+	"SwapToAllies Title"
+	{
+		"es"	"Mover jugador el equipo Americano (Aliados):"
+	}
+
+	"SwapToAxis Title"
+	{
+		"es"	"Mover jugador al Equipo Alemán (Eje):"
+	}
+
+	"SwapToSpec Title"
+	{
+		"es"	"Mover jugador a Espectadores (Spec):"
+	}
+
+	"EncouragePlayer Title"
+	{
+		"es"	"Animar al Jugador a completar los objetivos:"
+	}
+
+	"Encouraged Player"
+	{
+		"es"	"El Admin {1} animó al Jugador {2} a completar los objetivos!"
+	}
+
+	"EncouragePlayer Msg"
+	{
+		"es"	"Vamos a por algunos objetivos, %N!\nTienes tiempo de sobra para descansar una vez estés muerto!"
+	}
+
+	"Admin SlayPlayer"
+	{
+		"es"	"El Admin {1} ha matado al Jugador {2}!"
+	}
+
+	"Slay Title"
+	{
+		"es"	"Matar a un solo Jugador"
+	}
+
+	"Slay Player"
+	{
+		"es"	"Matar Jugador"
+	}																	
+}

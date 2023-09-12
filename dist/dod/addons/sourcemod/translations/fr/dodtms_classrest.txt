@@ -1,0 +1,62 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Class Restrictions
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{	
+	"Class Restricted"
+	{
+		"fr"	"Cette Classe est limitée! Au moins %i joueurs nécessaires!"
+	}
+
+	"No SpawnClass"
+	{
+		"fr"	"Le changement de Classe dans la zone de Spawn n'est pas permis!"
+	}
+
+	"No CmdJoinclass"
+	{
+		"fr"	"Veuillez rejoinde une Classe!"
+	}
+
+	"Player ClassFull"
+	{
+		"fr"	"Cette Classe est complète! Veuillez en choisir une autre!"
+	}
+
+	"RespawnAs"
+	{
+		"fr"	"Vous allez réapparaître comme"
+	}
+
+	"RIFLEMAN"
+	{
+		"fr"	"Fusillier"
+	}
+
+	"ASSAULT"
+	{
+		"fr"	"Assaut"
+	}
+
+	"SUPPORT"
+	{
+		"fr"	"Support"
+	}
+
+	"SNIPER"
+	{
+		"fr"	"Sniper"
+	}
+
+	"MG"
+	{
+		"fr"	"MG"
+	}
+
+	"ROCKET"
+	{
+		"fr"	"Bazooka"
+	}
+}

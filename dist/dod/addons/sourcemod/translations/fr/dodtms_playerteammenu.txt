@@ -1,0 +1,172 @@
+﻿//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Player / Team Commands Menu
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{	
+	"Admin Encourage"
+	{
+		"fr"	"L'Admin {1} a encouragé la Team {2}!"
+	}
+
+	"Admin SwitchPlayer"
+	{
+		"fr"	"L'Admin {1} a envoyé le joueur {2} vers la Team {3}!"
+	}
+
+	"Encourage Msg"
+	{
+		"fr"	"En avant tous, allez chercher des objectifs!\nVous aurez assez de temps pour vous reposer quand vous serez morts!"
+	}
+
+	"PlayerCmdMenu"
+	{
+		"fr"	"Commandes Joueur"
+	}
+
+	"PlayerCmdMenu Title"
+	{
+		"fr"	"Menu des commandes joueur:"
+	}
+
+	"TeamCmdMenu"
+	{
+		"fr"	"Commandes Team"
+	}
+
+	"TeamCmdMenu Title"
+	{
+		"fr"	"Menu des commandes Team:"
+	}
+
+	"SwapToAllies"
+	{
+		"fr"	"Envoi du joueur vers la Team U.S. Army"
+	}
+
+	"SwapToAxis"
+	{
+		"fr"	"Envoi du joueur vers la Team Wehrmacht"
+	}
+
+	"SwapToSpec"
+	{
+		"fr"	"Envoi du joueur vers les Spectateurs"
+	}
+
+	"Encourage Player"
+	{
+		"fr"	"Encourager un joueur"
+	}
+
+	"SwapTeamsItem"
+	{
+		"fr"	"Inverser les Teams"
+	}
+
+	"MixTeamsItem"
+	{
+		"fr"	"Mélanger les Teams"
+	}
+
+	"EncourageTeamsItem"
+	{
+		"fr"	"Encourager les Teams"
+	}
+
+	"AdminsvsPublicItem"
+	{
+		"fr"	"Admins vs. Public"
+	}
+
+	"EncourageTeam Title"
+	{
+		"fr"	"Encourager l'équipe:"
+	}
+
+	"EncourageAllies Item"
+	{
+		"fr"	"Team U.S. Army (Allies)"
+	}
+
+	"EncourageAxis Item"
+	{
+		"fr"	"Team Wehrmacht (Axes)"
+	}
+
+	"EncourageBoth Item"
+	{
+		"fr"	"Les deux Teams (Allies & Axes)"
+	}
+
+	"AdminsvsPublic Title"
+	{
+		"fr"	"Admins vs. Public:"
+	}
+
+	"AdminTeamAllies Item"
+	{
+		"fr"	"Définir la Team Admin comme U.S. Army (Allies)"
+	}
+
+	"AdminTeamAxis Item"
+	{
+		"fr"	"Définir la Team Admin comme Wehrmacht (Axes)"
+	}
+
+	"AdminTeamNone Item"
+	{
+		"fr"	"Annuler la Team Admin (retour à la normale)"
+	}
+
+	"AdminTeam Set"
+	{
+		"fr"	"L' Admin {1} a défini la Team Admin comme {2}!"
+	}
+
+	"SwapToAllies Title"
+	{
+		"fr"	"Envoi du joueur vers la Team U.S. Army (Allies):"
+	}
+
+	"SwapToAxis Title"
+	{
+		"fr"	"Envoi du joueur vers la Team Wehrmacht (Axes):"
+	}
+
+	"SwapToSpec Title"
+	{
+		"fr"	"Envoi du joueur vers les Spectateurs (Spec):"
+	}
+
+	"EncouragePlayer Title"
+	{
+		"fr"	"Encourager un joueur à conquérir des Objectifs:"
+	}
+
+	"Encouraged Player"
+	{
+		"fr"	"L'Admin {1} a encouragé le joueur {2} à conquérir des Objectifs!"
+	}
+
+	"EncouragePlayer Msg"
+	{
+		"fr"	"En avant %N, va gagner quelques objectifs!\nTu auras assez de temps pour te reposer quand tu seras mort!"
+	}
+
+	"Admin SlayPlayer"
+	{
+		"fr"	"L'Admin {1} a massacré le joueur {2}!"
+	}
+
+	"Slay Title"
+	{
+		"fr"	"Massacrer un joueur"
+	}
+
+	"Slay Player"
+	{
+		"fr"	"Massacrer le joueur"
+	}																	
+}

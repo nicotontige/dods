@@ -1,0 +1,71 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon RoundEnd Events
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"RE Mixed"
+	{
+		"en"	"RoundEnd: Teams will be mixed now!"
+	}
+
+	"RE Mixed2"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"	"Consecutive Won Round {1}/{2}: Teams have been mixed!"
+	}
+
+	"RE MixIn"
+	{
+		"#format"	"{1:i},{2:i},{3:i}"
+		"en"	"Consecutive Won Round {1}/{2}: Teams will be mixed in {3} further rounds!"
+	}
+
+	"RE MixNext"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"	"Consecutive Won Round {1}/{2}: Teams will be mixed next round!"
+	}
+
+	"RE Swapped"
+	{
+		"en"	"RoundEnd: Teams have been swapped!"
+	}
+
+	"RE Swapped2"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"	"Round {1}/{2}: Teams have been swapped!"
+	}
+
+	"RE SwapIn"
+	{
+		"#format"	"{1:i},{2:i},{3:i}"
+		"en"	"Round {1}/{2}: Teams will be swapped in {3} rounds!"
+	}
+
+	"RE SwapNext"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en"	"Round {1}/{2}: Teams will be swapped next round!"
+	}
+
+	"Team Defeated"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"	"{1} defeated {2}!"
+	}
+
+	"Team Casualties"
+	{
+		"#format"	"{1:i},{2:s},{3:i},{4:s}"
+		"en"	"{1} casualties on {2}\n{3} casualties on {4}"
+	}
+
+	"RoundWon In"
+	{
+		"#format"	"{1:i},{2:s}"
+		"en"	"Round was won within {1}:{2}min!"
+	}
+}

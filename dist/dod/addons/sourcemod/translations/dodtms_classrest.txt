@@ -1,0 +1,62 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Class Restrictions
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{	
+	"Class Restricted"
+	{
+		"en"	"Class is restricted! At least %i players needed!"
+	}
+
+	"No SpawnClass"
+	{
+		"en"	"Changing Class in SpawnArea is BLOCKED!"
+	}
+
+	"No CmdJoinclass"
+	{
+		"en"	"Please select a class from the ClassMenu!"
+	}
+
+	"Player ClassFull"
+	{
+		"en"	"Your current class is full! Please select another!"
+	}
+
+	"RespawnAs"
+	{
+		"en"	"You will respawn as"
+	}
+
+	"RIFLEMAN"
+	{
+		"en"	"Rifleman"
+	}
+
+	"ASSAULT"
+	{
+		"en"	"Assault"
+	}
+
+	"SUPPORT"
+	{
+		"en"	"Support"
+	}
+
+	"SNIPER"
+	{
+		"en"	"Sniper"
+	}
+
+	"MG"
+	{
+		"en"	"MG"
+	}
+
+	"ROCKET"
+	{
+		"en"	"Rocket"
+	}
+}

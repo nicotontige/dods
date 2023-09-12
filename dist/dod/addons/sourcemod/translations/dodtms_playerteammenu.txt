@@ -1,0 +1,177 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Player / Team Commands Menu
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{	
+	"Admin Encourage"
+	{
+		"#format"	"{1:N},{2:s}"
+		"en"	"Admin {1} has encouraged Team {2}!"
+	}
+
+	"Admin SwitchPlayer"
+	{
+		"#format"	"{1:N},{2:N},{3:s}"
+		"en"	"Admin {1} switched Player {2} to Team {3}!"
+	}
+
+	"Encourage Msg"
+	{
+		"en"	"Come on guys, let's get some objectives!\nYou have time enough to rest once you're dead!"
+	}
+
+	"PlayerCmdMenu"
+	{
+		"en"	"Player Commands"
+	}
+
+	"PlayerCmdMenu Title"
+	{
+		"en"	"Player Commands Menu:"
+	}
+
+	"TeamCmdMenu"
+	{
+		"en"	"Team Commands"
+	}
+
+	"TeamCmdMenu Title"
+	{
+		"en"	"Team Commands Menu:"
+	}
+
+	"SwapToAllies"
+	{
+		"en"	"Swap player to Team U.S. Army"
+	}
+
+	"SwapToAxis"
+	{
+		"en"	"Swap player to Team Wehrmacht"
+	}
+
+	"SwapToSpec"
+	{
+		"en"	"Swap player to Team Spectators"
+	}
+
+	"Encourage Player"
+	{
+		"en"	"Encourage single player"
+	}
+
+	"SwapTeamsItem"
+	{
+		"en"	"Swap Teams"
+	}
+
+	"MixTeamsItem"
+	{
+		"en"	"Mix Teams"
+	}
+
+	"EncourageTeamsItem"
+	{
+		"en"	"Encourage Teams"
+	}
+
+	"AdminsvsPublicItem"
+	{
+		"en"	"Admins vs. Public"
+	}
+
+	"EncourageTeam Title"
+	{
+		"en"	"Encourage Team:"
+	}
+
+	"EncourageAllies Item"
+	{
+		"en"	"Team U.S. Army (Allies)"
+	}
+
+	"EncourageAxis Item"
+	{
+		"en"	"Team Wehrmacht (Axis)"
+	}
+
+	"EncourageBoth Item"
+	{
+		"en"	"Both Teams (Allies & Axis)"
+	}
+
+	"AdminsvsPublic Title"
+	{
+		"en"	"Admins vs. Public:"
+	}
+
+	"AdminTeamAllies Item"
+	{
+		"en"	"Set Admin Team U.S. Army (Allies)"
+	}
+
+	"AdminTeamAxis Item"
+	{
+		"en"	"Set Admin Team Wehrmacht (Axis)"
+	}
+
+	"AdminTeamNone Item"
+	{
+		"en"	"Unset Admin Team (back to normal)"
+	}
+
+	"AdminTeam Set"
+	{
+    "#format"	"{1:N},{2:s}"
+		"en"	"Admin {1} set the Admin Team to {2}!"
+	}
+
+	"SwapToAllies Title"
+	{
+		"en"	"Swap player to Team U.S. Army (Allies):"
+	}
+
+	"SwapToAxis Title"
+	{
+		"en"	"Swap player to Team Wehrmacht (Axis):"
+	}
+
+	"SwapToSpec Title"
+	{
+		"en"	"Swap player to Team Spectators (Spec):"
+	}
+
+	"EncouragePlayer Title"
+	{
+		"en"	"Encourage Player to fulfill Objectives:"
+	}
+
+	"Encouraged Player"
+	{
+    "#format"	"{1:N},{2:N}"
+		"en"	"Admin {1} encouraged Player {2} to fulfill Objectives!"
+	}
+
+	"EncouragePlayer Msg"
+	{
+		"en"	"Come on %N, get some objectives!\nYou have time enough to rest once you're dead!"
+	}
+
+	"Admin SlayPlayer"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"	"Admin {1} has slayed Player {2}!"
+	}
+
+	"Slay Title"
+	{
+		"en"	"Slay single Player"
+	}
+
+	"Slay Player"
+	{
+		"en"	"Slay Player"
+	}																	
+}

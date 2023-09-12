@@ -1,0 +1,62 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon RoundEnd Events
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"RE Mixed"
+	{
+		"pt"	"Fim de Round: Times serão misturados agora!"
+	}
+
+	"RE Mixed2"
+	{
+		"pt"	"Rounds Consecutivos Ganhos {1}/{2}: Times foram misturados!"
+	}
+
+	"RE MixIn"
+	{
+		"pt"	"Rounds Consecutivos Ganhos {1}/{2}: Times serão misturados em {3} rounds!"
+	}
+
+	"RE MixNext"
+	{
+		"pt"	"Rounds Consecutivos Ganhos {1}/{2}: Times serão misturados no próximo round!"
+	}
+
+	"RE Swapped"
+	{
+		"pt"	"Fim de Round: Times foram trocados!"
+	}
+
+	"RE Swapped2"
+	{
+		"pt"	"Round {1}/{2}: Times foram trocados!"
+	}
+
+	"RE SwapIn"
+	{
+		"pt"	"Round {1}/{2}: Times serão trocados em {3} rounds!"
+	}
+
+	"RE SwapNext"
+	{
+		"pt"	"Round {1}/{2}: Times serão trocados no próximo round!"
+	}
+
+	"Team Defeated"
+	{
+		"pt"	"{1} ganhou do {2}!"
+	}
+
+	"Team Casualties"
+	{
+		"pt"	"{1} mortes no {2}\n{3} mortes no {4}"
+	}
+
+	"RoundWon In"
+	{
+		"pt"	"O Round foi ganho em {1}:{2} minutos!"
+	}
+}

@@ -1,0 +1,172 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon Player / Team Commands Menu
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{	
+	"Admin Encourage"
+	{
+		"de"	"Admin {1} hat Team {2} ermutigt!"
+	}
+
+	"Admin SwitchPlayer"
+	{
+		"de"	"Admin {1} hat Spieler {2} zu Team {3} verschoben!"
+	}
+
+	"Encourage Msg"
+	{
+		"de"	"Los Leute, lasst uns die Aufgaben erfuellen!\nIhr habt genuegend Erholung wenn ihr Tot seid!"
+	}
+
+	"PlayerCmdMenu"
+	{
+		"de"	"Spieler Kommandos"
+	}
+
+	"PlayerCmdMenu Title"
+	{
+		"de"	"Spieler Kommandos Menue:"
+	}
+
+	"TeamCmdMenu"
+	{
+		"de"	"Team Kommandos"
+	}
+
+	"TeamCmdMenu Title"
+	{
+		"de"	"Team Kommandos Menue:"
+	}
+
+	"SwapToAllies"
+	{
+		"de"	"Spieler ins Team U.S. Army verschieben"
+	}
+
+	"SwapToAxis"
+	{
+		"de"	"Spieler ins Team Wehrmacht verschieben"
+	}
+
+	"SwapToSpec"
+	{
+		"de"	"Spieler ins Team Spectators verschieben"
+	}
+
+	"Encourage Player"
+	{
+		"de"	"Einzelnen Spieler ermutigen"
+	}
+
+	"SwapTeamsItem"
+	{
+		"de"	"Teams vertauschen"
+	}
+
+	"MixTeamsItem"
+	{
+		"de"	"Teams mischen"
+	}
+
+	"EncourageTeamsItem"
+	{
+		"de"	"Teams ermutigen"
+	}
+
+	"AdminsvsPublicItem"
+	{
+		"de"	"Admins gegen den Rest"
+	}
+
+	"EncourageTeam Title"
+	{
+		"de"	"Team ermutigen:"
+	}
+
+	"EncourageAllies Item"
+	{
+		"de"	"Team U.S. Army (Alliierte)"
+	}
+
+	"EncourageAxis Item"
+	{
+		"de"	"Team Wehrmacht (AchsenMaechte)"
+	}
+
+	"EncourageBoth Item"
+	{
+		"de"	"Beide Teams (Alliierte & AchsenMaechte)"
+	}
+
+	"AdminsvsPublic Title"
+	{
+		"de"	"Admins gegen den Rest:"
+	}
+
+	"AdminTeamAllies Item"
+	{
+		"de"	"Setze Admin Team U.S. Army (Alliierte)"
+	}
+
+	"AdminTeamAxis Item"
+	{
+		"de"	"Setze Admin Team Wehrmacht (AchsenMaechte)"
+	}
+
+	"AdminTeamNone Item"
+	{
+		"de"	"Admin Team aufloesen (Standard)"
+	}
+
+	"AdminTeam Set"
+	{
+		"de"	"Admin {1} hat Team {2} zum AdminTeam erklaert!"
+	}
+
+	"SwapToAllies Title"
+	{
+		"de"	"Spieler zum Team U.S. Army (Alliierte) verschieben:"
+	}
+
+	"SwapToAxis Title"
+	{
+		"de"	"Spieler zum Team Wehrmacht (AchsenMaechte) verschieben:"
+	}
+
+	"SwapToSpec Title"
+	{
+		"de"	"Spieler zum Team Spectators (Spec) verschieben:"
+	}
+
+	"EncouragePlayer Title"
+	{
+		"de"	"Spieler ermutigen die Aufgaben zu erfuellen:"
+	}
+
+	"Encouraged Player"
+	{
+		"de"	"Admin {1} hat Spieler {2} ermutigt die Aufgaben zu erfuellen!"
+	}
+
+	"EncouragePlayer Msg"
+	{
+		"de"	"Los %N, erfuelle ein paar Aufgaben!\nDu hast genuegend Erholung wenn Du Tot bist!"
+	}
+
+	"Admin SlayPlayer"
+	{
+		"de"	"Admin {1} hat Spieler {2} erschlagen!"
+	}
+
+	"Slay Title"
+	{
+		"de"	"Einzelnen Spieler erschlagen!"
+	}
+
+	"Slay Player"
+	{
+		"de"	"Spieler erschlagen!"
+	}																	
+}

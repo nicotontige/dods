@@ -1,0 +1,22 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Addon ClanTag Protection
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"ClanTag Kick"
+	{
+		"fr"	"Utilisation illégale du ClanTag '%s'"
+	}
+
+	"ClanTag NoAccess"
+	{
+		"fr"	"{1}, vous n'êtes pas autorisé(e) à utiliser le ClanTAg '{2}'!"
+	}
+
+	"ClanTag Forced"
+	{
+		"fr"	"{1} vous devez utiliser le ClanTag '{2}'! Votre nom a été changé en conséquence!"
+	}
+}

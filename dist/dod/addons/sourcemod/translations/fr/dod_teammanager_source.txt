@@ -1,0 +1,82 @@
+﻿//////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// [DoD] TMS - Base Plugin (Shared Translations!)
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////
+"Phrases"
+{
+	"AdminTeam Auto"
+	{
+		"fr"	"Désolé, vous ne pouvez pas rejoindre la Team Admin, vous rejoignez la Team %s!"
+	}	
+	
+	"AdminTeam Stop"
+	{
+		"fr"	"Désolé, vous ne pouvez pas rejoindre la Team Admin"
+	}
+	
+	"Admin TeamSwap"
+	{
+		"fr"	"L'Admin %N a inversé les Teams!"
+	}
+	
+	"Admin MixTeams Error"
+	{
+		"fr"	"Au minimum %i joueurs par Team pour pouvoir mélanger les équipes!"
+	}
+	
+	"Admin MixTeams Success"
+	{
+		"fr"	"L'Admin %N a initié le mélange des Teams!"
+	}
+	
+	"Already on Team"
+	{
+		"fr"	"Vous êtes déjà dans la Team %s!"
+	}
+	
+	"Configs Deleted"
+	{
+		"fr"	"Les fichiers de config ont été éffacés et seront recréés au prochain changement de map!"
+	}
+	
+	"Team Locked"
+	{
+		"fr"	"La Team %s est verrouillée!"
+	}
+	
+	"Team Full Stop"
+	{
+		"fr"	"La Team %s est complète, désolé!"
+	}
+	
+	"Team Full Auto"
+	{
+		"fr"	"La Team {1} est complète, vous rejoignez la Team {2}!"
+	}
+	
+	"Teams Balanced"
+	{
+		"fr"	"Les Teams sont équilibrées, vous ne pouvez pas changer pour %s!"
+	}
+	
+	"PluginCmdMenu"
+	{
+		"fr"	"Commandes du Plugin"
+	}
+	
+	"PluginCmdMenu Title"
+	{
+		"fr"	"Menu des commandes du Plugin:"
+	}
+	
+	"CheckVersion"
+	{
+		"fr"	"Vérifier une nouvelle Version!"
+	}
+	
+	"RecreateCfgs"
+	{
+		"fr"	"Recréer les fichier de config du Plugin!"
+	}
+}
