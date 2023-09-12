@@ -1,7 +1,7 @@
 FROM nmanceau/steamcmd as game-install
 
 # Download Day of Defeat: Source
-RUN /app/steamcmd.sh +force_install_dir /games +login anonymous +app_update 232290 validate +quit
+RUN numactl --physcpubind=+0 /app/steamcmd.sh +force_install_dir /games +login anonymous +app_update 232290 validate +quit
 
 #=======================================================================
 FROM debian:bookworm-slim
